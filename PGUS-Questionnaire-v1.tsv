@@ -1,0 +1,32 @@
+Code	PGUS questions	Max score
+A	User interface	20
+A1	The terms used in the system are clear.	4
+A2	It is easy to move through different parts of the system.	4
+A3	The error messages are easy to understand.	4
+A4	The delay between operations is acceptable.	4
+A5	Returning to the homepage is easy.	4
+B	Spatial interface	20
+B1	It is easy to move to a new location on the map.	4
+B2	It is easy to zoom in and out on the map.	4
+B3	I can create new content easily.	4
+B4	I can easily access information about what is displayed in the map.	4
+B5	The visual edits on the map take effect immediately.	4
+C	Learnability	20
+C1	I am confident using the system.	4
+C2	It is easy to remember how to perform tasks.	4
+C3	Discovering new features by trial and error is easy.	4
+C4	I find the help resources useful.	4
+C5	Mistakes can be easily undone.	4
+D	Effectiveness	20
+D1	The system gives me the tools to reach my goals.	4
+D2	The system is reliable.	4
+D3	I can complete tasks that would be impossible without the system.	4
+D4	The system increases my participation in the project.	4
+D5	I would recommend this system to others.	4
+E	Communication	20
+E1	The system helps me communicate my ideas to other participants.	4
+E2	I always understand what the system is showing.	4
+E3	The maps are easy to understand.	4
+E4	I can express my opinion about other participants' ideas.	4
+E5	"When I have a problem, somebody can help me."	4
+

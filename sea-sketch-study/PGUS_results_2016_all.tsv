@@ -1,0 +1,176 @@
+RespondentID	What.is.your.age.	Are.you.male.or.female.	What.is.the.highest.level.of.education.you.have.completed.	How.would.you.rate.your..strong.web.experience..strong..prior.to.working.with.SeaSketch.	How.long.have.you.used_SeaSketch.for.	How.would.you.rate.your.knowledge.of..strong.SeaSketch..strong..	Have.you.ever.contributed.to.other.public.participatory.projects.	A1	A2	A3	A4	A5	B1	B2	B3	B4	B5	C1	C2	C3	C4	C5	D1	D2	D3	D4	D5	E1	E2	E3	E4	E5	CompletionTimeMinutes	gender	age	expertise	pgussum	pgusmean	age_numeric	hours_numeric	exp_numeric
+1	21-29	Female	Graduated from college	Beginner	21 or more hours	Intermediate user	No	2	1	1	3	1	4	4	2	3	3	1	1	1	2	1	2	1	2	3	2	3	2	3	2	2	5.1	Female	21-29	Intermediate user	52	2.08	3	3	2
+2	40-49	Male	Completed graduate school	Expert	21 or more hours	Expert user	Yes	2	1	1	1	4	2	2	1	1	1	3	2	1	1	1	0	2	1	2	2	1	2	3	2	2	11.5	Male	40-49	Expert user	41	1.64	5	3	3
+3	17 or younger	Female	10th grade	Beginner	11-20 hours	Beginner user	Yes	4	4	3	3	4	4	4	3	4	3	4	4	4	4	4	3	3	3	3	4	2	3	3	2	4	5.5	Female	17 or younger	Beginner user	86	3.44	1	2	1
+4	17 or younger	Female	2 years of college	Intermediate	1-10 hours	Intermediate user	Yes	4	3	3	4	3	3	2	4	4	4	3	3	4	4	3	3	3	4	4	4	4	3	4	4	4	6.33	Female	17 or younger	Intermediate user	88	3.52	1	1	2
+5	50-59	Male	Completed graduate school	Intermediate	21 or more hours	Intermediate user	Yes	3	3	3	3	3	4	3	3	3	3	3	3	3	2	2	3	3	3	4	3	3	3	4	3	3	5.92	Male	50-59	Intermediate user	76	3.04	6	3	2
+6	60 or older	Male	Some graduate school	Intermediate	11-20 hours	Intermediate user	Yes	3	2	3	2	2	3	3	2	3	2	2	3	2	3	2	2	3	2	3	3	2	2	3	2	2	2.8	Male	60 or older	Intermediate user	61	2.44	7	2	2
+7	30-39	Male	Completed graduate school	Intermediate	1-10 hours	Intermediate user	Yes	2	3	2	2	3	3	3	2	3	2	2	3	2	3	2	2	2	3	3	3	3	3	3	3	2	6.57	Male	30-39	Intermediate user	64	2.56	4	1	2
+8	60 or older	Male	Completed graduate school	Intermediate	1-10 hours	Beginner user	Yes	2	2	2	3	3	2	3	1	2	1	1	1	1	1	2	2	3	3	2	2	3	2	3	3	1	2.85	Male	60 or older	Beginner user	51	2.04	7	1	1
+9	21-29	Male	Graduated from college	Expert	1-10 hours	Beginner user	No	3	4	3	3	3	4	4	2	2	3	3	3	3	4	3	3	3	4	4	4	3	2	3	2	1	3.87	Male	21-29	Beginner user	76	3.04	3	1	1
+10	40-49	Male	Completed graduate school	Intermediate	21 or more hours	Intermediate user	Yes	1	2	2	3	2	3	2	2	3	1	2	1	2	2	2	2	2	2	1	2	3	2	2	2	1	3.42	Male	40-49	Intermediate user	49	1.96	5	3	2
+11	50-59	Male	11th grade	Beginner	1-10 hours	Intermediate user	Yes	3	3	3	3	3	3	4	2	3	3	4	3	2	3	2	4	4	3	3	4	4	2	3	4	3	6.87	Male	50-59	Intermediate user	78	3.12	6	1	2
+12	40-49	Female	Completed graduate school	Beginner	1-10 hours	Beginner user	No	3	3	2	3	3	3	3	2	3	2	3	3	3	3	2	2	3	1	3	3	3	3	3	3	3	2.42	Female	40-49	Beginner user	68	2.72	5	1	1
+13	18-20	Female	1 year of college	Beginner	1-10 hours	Beginner user	No	3	3	2	3	3	3	3	2	2	3	1	2	3	3	2	3	3	2	2	3	3	1	3	2	3	3.32	Female	18-20	Beginner user	63	2.52	2	1	1
+14	40-49	Female	Completed graduate school	Beginner	1-10 hours	Beginner user	No	3	3	2	3	4	3	3	3	3	3	2	2	2	4	3	2	2	1	4	4	3	3	3	3	3	4.1	Female	40-49	Beginner user	71	2.84	5	1	1
+15	21-29	Male	Graduated from high school	Intermediate	1-10 hours	Beginner user	Yes	4	4	4	3	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	24.38	Male	21-29	Beginner user	98	3.92	3	1	1
+16	40-49	Male	Completed graduate school	Beginner	1-10 hours	Intermediate user	No	3	2	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	2	2	3	3	3	3	3	3	10.4	Male	40-49	Intermediate user	71	2.84	5	1	2
+17	60 or older	Male	Completed graduate school	Expert	1-10 hours	Intermediate user	Yes	4	4	4	4	4	2	3	2	3	3	3	3	3	3	3	2	4	2	2	4	2	4	4	2	4	2.5	Male	60 or older	Intermediate user	78	3.12	7	1	2
+18	60 or older	Female	Some graduate school	Intermediate	1-10 hours	Beginner user	No	3	2	2	2	3	3	3	2	3	2	2	2	3	3	2	2	2	2	2	3	3	3	3	2	3	6.33	Female	60 or older	Beginner user	62	2.48	7	1	1
+19	50-59	Male	Graduated from college	Expert	1-10 hours	Beginner user	No	3	3	2	3	3	3	3	2	3	2	3	3	3	2	3	3	2	3	3	3	3	2	3	2	2	2.68	Male	50-59	Beginner user	67	2.68	6	1	1
+20	50-59	Female	Graduated from college	Beginner	21 or more hours	Beginner user	Yes	3	2	3	2	3	2	3	2	3	3	3	3	2	3	2	3	2	1	3	3	2	2	3	2	3	99.78	Female	50-59	Beginner user	63	2.52	6	3	1
+21	30-39	Male	Completed graduate school	Beginner	1-10 hours	Beginner user	Yes	3	3	3	3	3	3	3	3	3	2	2	3	3	3	3	3	2	3	2	2	3	3	3	2	2	2.42	Male	30-39	Beginner user	68	2.72	4	1	1
+22	40-49	Male	Completed graduate school	Expert	1-10 hours	Beginner user	Yes	3	3	3	3	3	3	3	3	3	3	2	1	1	2	2	2	3	2	2	3	3	2	3	2	2	2.45	Male	40-49	Beginner user	62	2.48	5	1	1
+23	30-39	Male	Completed graduate school	Expert	1-10 hours	Intermediate user	No	3	3	3	3	3	3	3	2	3	3	2	3	3	3	3	3	3	3	3	4	3	3	4	3	2	4.58	Male	30-39	Intermediate user	74	2.96	4	1	2
+24	60 or older	Male	Completed graduate school	Intermediate	1-10 hours	Beginner user	No	2	2	2	2	2	2	2	2	2	2	0	2	2	2	2	3	2	2	2	3	2	2	2	2	2	6.32	Male	60 or older	Beginner user	50	2	7	1	1
+25	30-39	Female	Completed graduate school	Expert	1-10 hours	Beginner user	Yes	2	3	2	3	3	3	3	2	3	2	2	2	3	3	2	2	3	3	1	4	2	3	3	2	2	9.32	Female	30-39	Beginner user	63	2.52	4	1	1
+26	21-29	Male	Graduated from college	Intermediate	11-20 hours	Intermediate user	Yes	3	3	3	3	3	2	2	2	2	2	2	2	2	2	2	3	3	3	3	3	2	2	2	2	2	4.22	Male	21-29	Intermediate user	60	2.4	3	2	2
+27	30-39	Male	Completed graduate school	Expert	11-20 hours	Intermediate user	No	2	4	3	3	3	3	3	2	3	2	4	4	4	4	4	3	3	4	3	4	4	3	3	3	3	2.58	Male	30-39	Intermediate user	81	3.24	4	2	2
+28	60 or older	Female	3 years of college	Intermediate	1-10 hours	Beginner user	Yes	3	2	3	2	3	3	3	2	3	2	2	2	3	2	2	1	2	2	1	2	1	3	3	1	2	4.23	Female	60 or older	Beginner user	55	2.2	7	1	1
+29	60 or older	Male	Graduated from college	Beginner	1-10 hours	Beginner user	Yes	3	2	2	1	2	3	3	1	3	1	3	3	2	2	2	3	3	2	4	4	4	3	4	2	2	8.8	Male	60 or older	Beginner user	64	2.56	7	1	1
+30	30-39	Female	Completed graduate school	Intermediate	21 or more hours	Intermediate user	No	3	3	2	3	3	3	3	2	2	3	3	2	1	2	3	3	3	4	4	3	2	3	1	2	2	7.8	Female	30-39	Intermediate user	65	2.6	4	3	2
+31	40-49	Female	Completed graduate school	Intermediate	1-10 hours	Intermediate user	Yes	2	2	2	2	3	3	3	3	3	3	2	3	2	2	3	3	4	3	3	4	3	2	2	2	3	2.97	Female	40-49	Intermediate user	67	2.68	5	1	2
+32	50-59	Male	Completed graduate school	Intermediate	1-10 hours	Beginner user	No	2	2	2	1	2	2	2	2	1	2	2	3	2	2	3	3	3	2	3	3	3	1	1	1	2	6.73	Male	50-59	Beginner user	52	2.08	6	1	1
+33	60 or older	Male	Some graduate school	Expert	21 or more hours	Intermediate user	Yes	2	1	2	1	2	2	2	1	0	2	1	3	2	2	2	3	2	2	3	3	3	1	1	3	2	17.93	Male	60 or older	Intermediate user	48	1.92	7	3	2
+34	40-49	Male	Graduated from high school	Beginner	1-10 hours	Beginner user	Yes	1	1	2	2	2	1	2	2	2	1	2	2	2	2	2	2	2	2	2	2	2	1	2	2	2	3.68	Male	40-49	Beginner user	45	1.8	5	1	1
+35	21-29	Male	Graduated from college	Expert	1-10 hours	Beginner user	Yes	2	3	2	4	2	4	4	2	4	4	2	2	3	2	4	2	3	4	1	4	2	2	4	2	2	3.58	Male	21-29	Beginner user	70	2.8	3	1	1
+36	30-39	Female	Completed graduate school	Expert	11-20 hours	Expert user	Yes	4	4	4	3	4	4	4	4	4	4	3	3	3	3	3	3	3	1	4	3	3	3	3	3	3	13.75	Female	30-39	Expert user	83	3.32	4	2	3
+37	40-49	Male	Completed graduate school	Expert	1-10 hours	Intermediate user	Yes	4	4	2	4	2	4	4	4	4	4	4	4	4	4	2	4	4	1	2	4	4	4	4	4	2	3.22	Male	40-49	Intermediate user	87	3.48	5	1	2
+38	40-49	Male	Completed graduate school	Intermediate	1-10 hours	Beginner user	Yes	3	3	2	3	3	3	3	2	3	2	2	3	3	2	2	3	2	2	2	3	2	3	3	2	2	2.43	Male	40-49	Beginner user	63	2.52	5	1	1
+39	40-49	Female	Graduated from college	Expert	1-10 hours	Beginner user	Yes	3	4	2	3	4	4	4	2	3	3	2	2	3	2	2	3	3	3	3	3	3	3	4	2	2	4.02	Female	40-49	Beginner user	72	2.88	5	1	1
+40	30-39	Female	Completed graduate school	Expert	11-20 hours	Intermediate user	Yes	4	4	2	4	2	4	4	4	4	4	4	4	4	2	4	4	4	4	4	4	4	4	4	4	2	10.73	Female	30-39	Intermediate user	92	3.68	4	2	2
+41	30-39	Male	Graduated from college	Beginner	1-10 hours	Beginner user	Yes	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2.05	Male	30-39	Beginner user	50	2	4	1	1
+42	40-49	Female	Completed graduate school	Beginner	1-10 hours	Beginner user	Yes	3	3	3	2	3	2	3	1	1	3	0	2	1	3	3	1	2	1	1	1	2	0	2	3	1	4	Female	40-49	Beginner user	47	1.88	5	1	1
+43	21-29	Female	Completed graduate school	Expert	1-10 hours	Beginner user	Yes	3	3	3	1	3	2	3	3	3	3	4	3	3	3	3	3	3	1	3	3	3	3	4	2	3	95.53	Female	21-29	Beginner user	71	2.84	3	1	1
+44	50-59	Male	Completed graduate school	Beginner	1-10 hours	Beginner user	No	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	3	2	2	1.52	Male	50-59	Beginner user	51	2.04	6	1	1
+45	60 or older	Female	Completed graduate school	Intermediate	1-10 hours	Intermediate user	Yes	3	3	2	3	4	3	3	3	3	3	2	2	2	3	3	3	3	2	3	3	2	2	3	2	2	4.12	Female	60 or older	Intermediate user	67	2.68	7	1	2
+46	40-49	Male	Graduated from college	Beginner	1-10 hours	Beginner user	Yes	3	3	3	2	2	3	3	3	3	3	2	3	2	2	2	2	2	3	3	3	3	2	3	2	2	5.18	Male	40-49	Beginner user	64	2.56	5	1	1
+47	30-39	Female	Completed graduate school	Intermediate	1-10 hours	Beginner user	Yes	3	3	3	3	3	3	3	3	3	3	2	2	3	4	4	3	3	3	3	3	3	4	4	3	3	4.28	Female	30-39	Beginner user	77	3.08	4	1	1
+48	40-49	Female	Completed graduate school	Beginner	1-10 hours	Beginner user	Yes	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	1.67	Female	40-49	Beginner user	50	2	5	1	1
+49	18-20	Male	1 year of college	Expert	11-20 hours	Intermediate user	No	3	3	3	3	3	3	4	2	3	4	4	4	3	3	3	3	3	1	3	3	3	3	4	3	2	5.25	Male	18-20	Intermediate user	76	3.04	2	2	2
+50	21-29	Female	Completed graduate school	Expert	21 or more hours	Intermediate user	Yes	3	3	3	3	3	3	3	3	1	2	3	3	1	2	3	3	3	1	1	3	3	3	3	2	2	4.98	Female	21-29	Intermediate user	63	2.52	3	3	2
+51	30-39	Male	Graduated from college	Beginner	11-20 hours	Beginner user	No	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	8.43	Male	30-39	Beginner user	75	3	4	2	1
+52	60 or older	Male	Completed graduate school	Beginner	1-10 hours	Intermediate user	No	2	3	2	3	3	3	3	3	2	2	3	2	3	2	3	3	3	3	3	3	3	2	1	2	2	4.38	Male	60 or older	Intermediate user	64	2.56	7	1	2
+53	50-59	Female	Graduated from college	Beginner	1-10 hours	Beginner user	No	4	3	3	3	3	3	4	4	4	3	3	3	3	3	3	4	4	4	4	4	4	3	4	3	3	7.6	Female	50-59	Beginner user	86	3.44	6	1	1
+54	60 or older	Male	Some graduate school	Expert	1-10 hours	Beginner user	No	2	2	2	2	3	3	3	3	2	3	2	2	3	2	2	3	2	3	3	4	3	1	3	2	2	2.55	Male	60 or older	Beginner user	62	2.48	7	1	1
+55	40-49	Male	Graduated from college	Expert	21 or more hours	Intermediate user	No	2	3	2	3	3	3	4	3	1	3	2	1	1	2	3	2	3	1	2	2	2	3	3	3	3	2.6	Male	40-49	Intermediate user	60	2.4	5	3	2
+56	30-39	Female	Completed graduate school	Intermediate	11-20 hours	Intermediate user	No	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	1	2	3	3	3	3	2	2	4.67	Female	30-39	Intermediate user	70	2.8	4	2	2
+57	40-49	Male	Some graduate school	Beginner	11-20 hours	Intermediate user	Yes	3	3	2	1	2	3	3	3	1	2	3	3	3	3	2	4	2	3	4	4	4	1	3	2	4	25.75	Male	40-49	Intermediate user	68	2.72	5	2	2
+58	40-49	Female	Completed graduate school	Intermediate	1-10 hours	Beginner user	No	3	3	3	3	3	3	3	1	3	3	1	3	3	3	3	2	3	3	3	3	3	3	3	2	1	6.93	Female	40-49	Beginner user	67	2.68	5	1	1
+59	60 or older	Male	Graduated from college	Beginner	11-20 hours	Intermediate user	Yes	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3	4	2	3	3	4	3	3	3	3	2	5.42	Male	60 or older	Intermediate user	74	2.96	7	2	2
+60	30-39	Female	Completed graduate school	Intermediate	21 or more hours	Intermediate user	Yes	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	2	2	3	2	3	3	3	2	22.82	Female	30-39	Intermediate user	70	2.8	4	3	2
+61	21-29	Male	Graduated from college	Expert	21 or more hours	Expert user	Yes	3	3	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3	59.62	Male	21-29	Expert user	73	2.92	3	3	3
+62	40-49	Male	Completed graduate school	Expert	1-10 hours	Intermediate user	No	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	1	2	1	1	3	2	2	3	2	2	2.98	Male	40-49	Intermediate user	63	2.52	5	1	2
+63	60 or older	Female	Graduated from college	Beginner	1-10 hours	Beginner user	Yes	2	2	2	2	2	3	3	2	2	2	3	3	3	3	3	4	3	4	4	4	2	3	4	2	3	8.95	Female	60 or older	Beginner user	70	2.8	7	1	1
+64	21-29	Female	Graduated from college	Intermediate	1-10 hours	Beginner user	Yes	3	2	2	3	3	3	3	3	3	3	3	3	2	3	3	3	3	2	3	3	3	3	3	3	3	7.18	Female	21-29	Beginner user	71	2.84	3	1	1
+65	50-59	Male	Graduated from college	Beginner	1-10 hours	Beginner user	No	3	4	3	3	4	3	4	3	3	4	3	3	3	3	3	3	4	4	4	4	3	4	4	3	4	4.73	Male	50-59	Beginner user	86	3.44	6	1	1
+66	50-59	Female	Completed graduate school	Expert	1-10 hours	Intermediate user	No	2	1	2	3	4	4	4	2	2	2	2	1	1	2	2	2	2	2	1	3	2	2	3	2	2	4.53	Female	50-59	Intermediate user	55	2.2	6	1	2
+67	30-39	Male	Completed graduate school	Intermediate	21 or more hours	Intermediate user	Yes	2	3	3	2	3	3	3	3	3	2	3	2	3	3	3	3	3	1	3	3	3	1	3	2	2	3.97	Male	30-39	Intermediate user	65	2.6	4	3	2
+68	30-39	Female	Completed graduate school	Intermediate	11-20 hours	Beginner user	Yes	3	3	3	3	3	3	3	3	3	3	3	2	3	3	3	2	3	3	2	3	3	3	3	3	3	11.73	Female	30-39	Beginner user	72	2.88	4	2	1
+69	50-59	Male	Completed graduate school	Expert	21 or more hours	Beginner user	Yes	1	1	1	1	1	1	3	3	1	2	1	1	1	1	1	1	2	1	1	1	1	1	3	3	4	9.3	Male	50-59	Beginner user	38	1.52	6	3	1
+70	40-49	Male	Graduated from high school	Beginner	1-10 hours	Beginner user	Yes	4	4	2	2	2	2	2	2	2	4	2	2	2	4	2	2	4	2	4	4	4	4	4	4	2	3.8	Male	40-49	Beginner user	72	2.88	5	1	1
+71	40-49	Male	Graduated from college	Expert	21 or more hours	Intermediate user	Yes	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	2.13	Male	40-49	Intermediate user	100	4	5	3	2
+72	30-39	Female	Completed graduate school	Expert	11-20 hours	Intermediate user	No	4	3	3	2	3	4	4	4	4	2	3	3	3	2	2	4	4	4	4	4	4	4	4	2	2	2.38	Female	30-39	Intermediate user	82	3.28	4	2	2
+73	21-29	Female	Some graduate school	Intermediate	1-10 hours	Beginner user	No	2	2	2	2	2	2	2	2	2	2	0	2	2	2	2	2	2	2	2	3	2	2	2	2	2	2.13	Female	21-29	Beginner user	49	1.96	3	1	1
+74	40-49	Male	Completed graduate school	Intermediate	11-20 hours	Intermediate user	Yes	4	3	3	3	2	4	4	1	2	3	3	2	2	3	3	2	3	0	2	3	2	1	2	3	2	4.93	Male	40-49	Intermediate user	62	2.48	5	2	2
+75	30-39	Male	Some graduate school	Intermediate	21 or more hours	Beginner user	Yes	1	3	1	0	3	3	1	3	3	1	2	1	2	2	2	2	2	1	2	2	2	2	2	1	1	2.67	Male	30-39	Beginner user	45	1.8	4	3	1
+76	50-59	Male	Completed graduate school	Expert	1-10 hours	Beginner user	No	2	3	2	3	3	3	3	2	3	2	2	2	3	2	2	2	2	2	2	2	2	2	3	2	2	3.23	Male	50-59	Beginner user	58	2.32	6	1	1
+77	30-39	Male	Completed graduate school	Expert	11-20 hours	Expert user	Yes	4	4	2	3	3	3	4	2	3	2	4	4	4	2	3	4	4	4	4	4	3	4	4	4	3	3.35	Male	30-39	Expert user	85	3.4	4	2	3
+78	21-29	Female	3 years of college	Beginner	1-10 hours	Beginner user	No	2	2	3	3	3	3	3	2	2	3	2	2	2	2	2	2	3	2	3	3	2	2	3	2	3	3.43	Female	21-29	Beginner user	61	2.44	3	1	1
+79	50-59	Female	Completed graduate school	Intermediate	11-20 hours	Intermediate user	No	3	3	2	3	3	3	3	3	3	3	3	3	2	3	2	2	3	3	3	3	2	3	3	2	3	11.83	Female	50-59	Intermediate user	69	2.76	6	2	2
+80	21-29	Male	Graduated from college	Intermediate	1-10 hours	Beginner user	Yes	3	3	2	2	2	2	3	3	2	3	2	3	3	2	3	2	2	1	3	3	2	2	2	1	2	2.8	Male	21-29	Beginner user	58	2.32	3	1	1
+81	40-49	Male	Completed graduate school	Intermediate	1-10 hours	Intermediate user	No	3	4	2	3	3	4	4	2	4	3	3	3	3	2	2	3	4	1	1	3	2	3	4	2	2	3.78	Male	40-49	Intermediate user	70	2.8	5	1	2
+82	30-39	Male	Completed graduate school	Intermediate	21 or more hours	Intermediate user	No	3	4	2	4	4	4	4	4	4	3	3	3	3	3	2	4	3	3	4	4	4	4	4	4	4	22	Male	30-39	Intermediate user	88	3.52	4	3	2
+83	60 or older	Male	Some graduate school	Intermediate	1-10 hours	Beginner user	No	2	3	3	3	3	3	3	2	3	2	2	2	3	3	3	3	3	4	3	3	2	3	3	2	3	6.75	Male	60 or older	Beginner user	69	2.76	7	1	1
+84	40-49	Female	Completed graduate school	Intermediate	1-10 hours	Beginner user	No	2	3	2	2	3	3	3	1	3	2	1	3	3	3	2	0	2	0	0	1	0	2	3	2	0	2.18	Female	40-49	Beginner user	46	1.84	5	1	1
+85	30-39	Male	Completed graduate school	Expert	1-10 hours	Beginner user	No	3	3	2	3	3	4	4	2	3	3	3	3	3	3	3	3	3	3	3	3	3	1	3	3	3	8.83	Male	30-39	Beginner user	73	2.92	4	1	1
+86	21-29	Male	Some graduate school	Intermediate	1-10 hours	Beginner user	Yes	3	3	3	2	3	3	3	3	3	3	3	2	2	3	2	3	3	3	3	3	3	3	3	3	3	2.03	Male	21-29	Beginner user	71	2.84	3	1	1
+87	30-39	Male	Completed graduate school	Expert	21 or more hours	Expert user	Yes	3	1	2	1	3	4	3	1	1	3	3	2	1	3	2	2	1	1	2	3	2	1	2	2	3	5.7	Male	30-39	Expert user	52	2.08	4	3	3
+88	40-49	Male	Graduated from college	Expert	1-10 hours	Intermediate user	Yes	3	3	2	3	3	3	3	3	3	2	3	2	2	3	2	2	3	2	3	3	2	3	3	2	2	8.1	Male	40-49	Intermediate user	65	2.6	5	1	2
+89	60 or older	Male	Completed graduate school	Beginner	1-10 hours	Beginner user	No	2	2	3	1	2	3	3	2	2	1	2	3	2	2	3	2	2	1	3	2	2	2	3	2	3	3.78	Male	60 or older	Beginner user	55	2.2	7	1	1
+90	30-39	Female	Completed graduate school	Expert	11-20 hours	Intermediate user	Yes	4	3	3	4	4	4	4	3	3	4	3	3	3	4	3	4	4	4	4	4	4	3	3	4	3	3.77	Female	30-39	Intermediate user	89	3.56	4	2	2
+91	21-29	Female	Completed graduate school	Expert	1-10 hours	Beginner user	No	2	1	2	0	2	2	1	2	1	1	1	2	2	2	2	3	0	3	3	2	3	1	1	3	1	4.13	Female	21-29	Beginner user	43	1.72	3	1	1
+92	21-29	Male	Completed graduate school	Expert	11-20 hours	Beginner user	Yes	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	1	1	1	1	1	2	2	2	2	1	4.2	Male	21-29	Beginner user	44	1.76	3	2	1
+93	21-29	Female	Completed graduate school	Expert	11-20 hours	Intermediate user	Yes	2	3	2	2	4	4	4	3	4	3	3	3	3	2	3	4	4	2	3	4	4	3	3	4	3	6.92	Female	21-29	Intermediate user	79	3.16	3	2	2
+94	40-49	Female	Completed graduate school	Intermediate	1-10 hours	Beginner user	Yes	3	2	3	1	2	3	3	1	3	2	3	3	3	3	3	2	3	3	3	3	3	2	3	3	0	6.03	Female	40-49	Beginner user	63	2.52	5	1	1
+95	21-29	Female	Graduated from college	Beginner	1-10 hours	Beginner user	No	2	1	3	3	3	4	4	1	4	2	2	3	2	2	2	3	4	2	3	4	3	2	4	2	2	12.55	Female	21-29	Beginner user	67	2.68	3	1	1
+96	50-59	Male	Completed graduate school	Expert	1-10 hours	Intermediate user	Yes	1	1	2	2	2	2	3	3	3	1	2	2	1	2	2	2	2	2	3	3	3	3	2	3	1	5.6	Male	50-59	Intermediate user	53	2.12	6	1	2
+97	21-29	Male	Completed graduate school	Expert	21 or more hours	Expert user	Yes	4	4	3	3	4	4	4	4	4	4	4	4	4	3	4	3	3	3	3	3	4	3	4	3	3	7.43	Male	21-29	Expert user	89	3.56	3	3	3
+98	30-39	Female	Some graduate school	Beginner	1-10 hours	Beginner user	No	3	2	2	2	2	3	3	2	3	3	1	2	3	3	3	2	2	2	2	3	2	3	3	2	2	2.82	Female	30-39	Beginner user	60	2.4	4	1	1
+99	40-49	Male	Completed graduate school	Expert	21 or more hours	Intermediate user	Yes	2	3	2	2	2	2	3	2	3	3	3	3	3	2	2	3	2	3	3	3	3	3	3	4	2	7.02	Male	40-49	Intermediate user	66	2.64	5	3	2
+100	40-49	Male	Completed graduate school	Intermediate	11-20 hours	Beginner user	No	3	3	2	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	4	3	3	3	3	2	3.63	Male	40-49	Beginner user	73	2.92	5	2	1
+101	30-39	Female	Some graduate school	Expert	11-20 hours	Intermediate user	Yes	3	3	3	3	4	4	4	4	3	3	3	3	3	2	3	3	3	4	3	4	3	1	3	4	2	6.22	Female	30-39	Intermediate user	78	3.12	4	2	2
+102	21-29	Female	Completed graduate school	Intermediate	11-20 hours	Intermediate user	No	2	1	2	3	4	3	4	4	3	3	3	3	4	3	3	2	3	4	2	4	4	3	4	3	4	2.78	Female	21-29	Intermediate user	78	3.12	3	2	2
+103	40-49	Female	Completed graduate school	Intermediate	21 or more hours	Intermediate user	Yes	3	2	2	4	4	3	3	2	3	3	3	3	3	2	3	3	3	3	3	3	3	4	3	2	2	1.88	Female	40-49	Intermediate user	72	2.88	5	3	2
+104	30-39	Female	Completed graduate school	Expert	21 or more hours	Intermediate user	No	3	2	3	2	1	3	3	3	3	2	3	3	2	2	3	3	3	2	4	3	3	3	3	3	4	25	Female	30-39	Intermediate user	69	2.76	4	3	2
+105	40-49	Male	Graduated from high school	Intermediate	21 or more hours	Intermediate user	Yes	2	3	2	3	3	3	3	1	3	3	3	3	2	3	3	3	3	3	3	3	3	1	3	3	3	9.48	Male	40-49	Intermediate user	68	2.72	5	3	2
+106	30-39	Female	Completed graduate school	Beginner	1-10 hours	Beginner user	No	3	3	3	3	3	4	4	4	4	4	3	4	4	4	4	4	4	4	4	4	4	4	4	4	4	6.88	Female	30-39	Beginner user	94	3.76	4	1	1
+107	50-59	Female	Some graduate school	Beginner	1-10 hours	Beginner user	Yes	2	3	3	3	3	3	3	3	3	3	3	2	3	3	3	3	3	2	3	3	3	3	3	2	3	3.48	Female	50-59	Beginner user	71	2.84	6	1	1
+108	30-39	Male	Completed graduate school	Intermediate	11-20 hours	Intermediate user	Yes	3	3	2	4	2	2	3	2	3	3	2	3	3	4	1	2	3	3	3	3	4	3	3	2	2	6.75	Male	30-39	Intermediate user	68	2.72	4	2	2
+109	50-59	Female	Graduated from college	Expert	11-20 hours	Intermediate user	Yes	2	1	2	2	3	2	3	1	2	1	2	2	2	2	2	0	2	0	2	0	2	2	2	2	2	4.15	Female	50-59	Intermediate user	43	1.72	6	2	2
+110	21-29	Female	Completed graduate school	Intermediate	1-10 hours	Beginner user	No	3	3	2	3	3	3	3	3	3	3	1	2	3	3	2	3	3	3	3	3	2	2	3	3	3	1.53	Female	21-29	Beginner user	68	2.72	3	1	1
+111	40-49	Male	Completed graduate school	Beginner	21 or more hours	Intermediate user	Yes	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	3	3	3	3	3	1043.07	Male	40-49	Intermediate user	74	2.96	5	3	2
+112	21-29	Female	Completed graduate school	Expert	11-20 hours	Intermediate user	Yes	3	2	2	3	3	3	3	3	3	2	2	2	3	3	2	3	3	1	2	3	3	2	3	3	2	3.67	Female	21-29	Intermediate user	64	2.56	3	2	2
+113	30-39	Female	Completed graduate school	Intermediate	1-10 hours	Beginner user	Yes	3	3	3	2	3	1	1	3	3	1	1	3	3	2	1	3	3	3	3	3	3	1	3	3	3	3.23	Female	30-39	Beginner user	61	2.44	4	1	1
+114	50-59	Male	Graduated from college	Expert	21 or more hours	Intermediate user	Yes	3	2	1	2	3	1	1	2	1	2	3	3	1	3	3	3	2	1	2	3	3	1	1	2	2	4.37	Male	50-59	Intermediate user	51	2.04	6	3	2
+115	30-39	Female	Completed graduate school	Intermediate	1-10 hours	Beginner user	Yes	3	3	3	2	3	3	3	3	3	3	2	3	3	3	2	3	3	0	3	3	3	3	3	3	2	2.08	Female	30-39	Beginner user	68	2.72	4	1	1
+116	50-59	Female	Some graduate school	Beginner	1-10 hours	Beginner user	Yes	3	4	3	4	4	4	4	2	3	2	2	3	4	3	2	3	2	3	4	4	2	3	3	2	2	3.98	Female	50-59	Beginner user	75	3	6	1	1
+117	30-39	Female	Completed graduate school	Intermediate	21 or more hours	Intermediate user	Yes	3	3	2	2	3	4	4	2	3	1	1	1	2	2	2	3	3	2	3	3	4	3	4	4	2	83.92	Female	30-39	Intermediate user	66	2.64	4	3	2
+118	21-29	Female	Completed graduate school	Intermediate	11-20 hours	Intermediate user	No	2	3	3	2	3	3	3	3	3	2	3	3	1	3	2	3	3	3	3	3	3	3	3	3	3	2.9	Female	21-29	Intermediate user	69	2.76	3	2	2
+119	50-59	Male	Completed graduate school	Expert	1-10 hours	Intermediate user	Yes	3	2	3	3	2	3	3	2	3	2	2	3	3	4	2	2	2	1	2	4	2	2	3	2	2	6.18	Male	50-59	Intermediate user	62	2.48	6	1	2
+120	30-39	Male	Completed graduate school	Expert	11-20 hours	Intermediate user	Yes	3	3	2	4	4	4	4	3	3	4	4	4	3	3	3	3	4	4	3	4	4	4	3	4	4	26.23	Male	30-39	Intermediate user	88	3.52	4	2	2
+121	21-29	Male	Some graduate school	Intermediate	1-10 hours	Beginner user	Yes	1	1	3	3	4	3	3	3	1	3	2	3	2	2	4	2	3	1	2	2	3	3	3	4	2	1.97	Male	21-29	Beginner user	63	2.52	3	1	1
+122	50-59	Female	Graduated from college	Intermediate	1-10 hours	Beginner user	No	3	3	2	1	2	3	3	2	3	2	1	3	1	1	2	2	3	2	2	3	2	1	3	2	2	2.97	Female	50-59	Beginner user	54	2.16	6	1	1
+123	30-39	Male	Graduated from college	Intermediate	11-20 hours	Intermediate user	Yes	3	3	3	4	3	3	3	3	3	3	4	4	4	3	3	3	4	2	3	4	3	3	4	3	3	2.08	Male	30-39	Intermediate user	81	3.24	4	2	2
+124	50-59	Male	Graduated from college	Beginner	11-20 hours	Intermediate user	No	3	3	2	1	2	2	2	2	2	1	3	3	2	3	2	3	3	2	3	3	3	2	3	2	2	2.75	Male	50-59	Intermediate user	59	2.36	6	2	2
+125	60 or older	Male	Graduated from college	Beginner	1-10 hours	Beginner user	Yes	3	3	2	1	2	2	1	3	3	2	3	2	2	2	2	2	2	3	4	3	4	1	3	2	2	7.5	Male	60 or older	Beginner user	59	2.36	7	1	1
+126	40-49	Male	Completed graduate school	Intermediate	1-10 hours	Intermediate user	Yes	3	3	3	3	3	4	4	3	3	4	4	4	4	4	3	3	3	3	3	3	4	3	3	3	3	1.93	Male	40-49	Intermediate user	83	3.32	5	1	2
+127	30-39	Male	Completed graduate school	Expert	11-20 hours	Intermediate user	No	2	2	3	3	3	1	3	2	1	4	3	3	2	2	1	3	3	4	2	4	3	2	4	3	3	36.48	Male	30-39	Intermediate user	66	2.64	4	2	2
+128	30-39	Male	Completed graduate school	Intermediate	1-10 hours	Beginner user	Yes	1	3	4	4	2	4	3	2	1	2	1	3	3	4	3	3	4	3	4	4	3	1	2	4	3	852.48	Male	30-39	Beginner user	71	2.84	4	1	1
+129	50-59	Male	Completed graduate school	Expert	11-20 hours	Intermediate user	Yes	3	3	2	3	3	3	3	3	3	2	3	3	2	2	3	4	4	4	3	4	3	3	3	3	4	3.83	Male	50-59	Intermediate user	76	3.04	6	2	2
+130	21-29	Female	Some graduate school	Intermediate	1-10 hours	Beginner user	No	3	3	2	4	3	3	3	1	3	2	0	1	1	3	3	2	3	4	1	1	3	1	2	3	2	3.05	Female	21-29	Beginner user	57	2.28	3	1	1
+131	21-29	Female	Graduated from college	Intermediate	11-20 hours	Beginner user	No	3	3	2	3	3	4	4	3	3	3	3	3	4	2	3	3	4	3	4	3	4	3	4	4	1	2611.1	Female	21-29	Beginner user	79	3.16	3	2	1
+132	17 or younger	Female	10th grade	Beginner	1-10 hours	Beginner user	No	3	3	3	3	3	3	3	4	3	3	3	3	3	3	3	3	3	2	2	3	3	3	3	4	3	1.72	Female	17 or younger	Beginner user	75	3	1	1	1
+133	21-29	Female	Some graduate school	Beginner	1-10 hours	Beginner user	Yes	3	4	4	4	4	4	4	3	4	3	1	3	2	4	4	3	3	2	3	3	4	3	4	1	3	1.67	Female	21-29	Beginner user	80	3.2	3	1	1
+134	21-29	Female	Completed graduate school	Intermediate	1-10 hours	Beginner user	No	3	3	2	3	3	3	3	3	3	4	3	3	3	2	3	3	4	4	4	4	3	3	3	3	3	6.07	Female	21-29	Beginner user	78	3.12	3	1	1
+135	30-39	Male	Completed graduate school	Expert	1-10 hours	Beginner user	Yes	2	2	2	2	3	3	3	2	3	2	2	2	2	2	2	2	3	2	2	2	2	2	2	2	2	2.47	Male	30-39	Beginner user	55	2.2	4	1	1
+136	18-20	Male	Did not attend school	Expert	1-10 hours	Expert user	Yes	4	4	4	4	4	4	4	4	4	4	4	4	2	3	2	0	4	2	1	3	4	4	4	4	2	2.62	Male	18-20	Expert user	83	3.32	2	1	3
+137	50-59	Male	Graduated from college	Expert	1-10 hours	Beginner user	Yes	2	3	2	2	2	2	3	2	3	2	2	2	2	2	2	3	2	2	3	3	3	1	3	2	2	15.33	Male	50-59	Beginner user	57	2.28	6	1	1
+138	60 or older	Female	Completed graduate school	Intermediate	11-20 hours	Beginner user	Yes	2	2	2	3	3	2	3	2	3	2	1	2	1	3	3	3	2	4	3	3	2	1	2	4	4	2.8	Female	60 or older	Beginner user	62	2.48	7	2	1
+139	50-59	Male	Graduated from college	Beginner	1-10 hours	Beginner user	No	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	3	3	2	3	3	3	2	3	2	2	6.45	Male	50-59	Beginner user	70	2.8	6	1	1
+140	30-39	Female	Completed graduate school	Beginner	1-10 hours	Intermediate user	Yes	3	3	2	3	4	4	4	2	4	4	1	3	4	3	2	4	4	4	2	4	2	4	4	2	2	7.2	Female	30-39	Intermediate user	78	3.12	4	1	2
+141	40-49	Male	Completed graduate school	Expert	1-10 hours	Beginner user	Yes	1	2	1	2	2	3	3	2	3	3	2	2	2	2	2	2	2	2	2	2	3	3	3	3	3	3.42	Male	40-49	Beginner user	57	2.28	5	1	1
+142	60 or older	Male	Completed graduate school	Intermediate	11-20 hours	Beginner user	Yes	3	2	2	3	3	2	2	1	1	3	1	1	2	1	2	3	2	2	3	3	3	2	3	1	1	10.25	Male	60 or older	Beginner user	52	2.08	7	2	1
+143	30-39	Female	Completed graduate school	Expert	21 or more hours	Expert user	Yes	2	4	1	4	1	4	4	4	4	3	3	4	3	2	1	3	2	1	2	4	3	1	3	3	4	2.97	Female	30-39	Expert user	70	2.8	4	3	3
+144	50-59	Male	Completed graduate school	Expert	11-20 hours	Beginner user	Yes	3	3	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	2	2	2.27	Male	50-59	Beginner user	72	2.88	6	2	1
+145	40-49	Female	Completed graduate school	Expert	21 or more hours	Expert user	Yes	2	1	3	2	3	0	0	0	0	1	3	1	3	2	2	2	2	1	1	4	3	2	3	3	2	192.93	Female	40-49	Expert user	46	1.84	5	3	3
+146	30-39	Male	Completed graduate school	Expert	1-10 hours	Beginner user	Yes	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	4.75	Male	30-39	Beginner user	50	2	4	1	1
+147	40-49	Female	Completed graduate school	Intermediate	11-20 hours	Beginner user	No	3	3	2	3	3	3	3	2	3	3	2	2	2	3	2	3	3	2	3	3	4	3	3	3	2	3.65	Female	40-49	Beginner user	68	2.72	5	2	1
+148	40-49	Male	Completed graduate school	Intermediate	11-20 hours	Intermediate user	Yes	3	2	1	3	1	4	4	2	4	3	3	3	3	2	2	3	3	2	3	3	3	3	4	2	3	7.77	Male	40-49	Intermediate user	69	2.76	5	2	2
+149	50-59	Male	Graduated from college	Expert	1-10 hours	Beginner user	Yes	3	4	4	3	3	4	4	3	3	3	3	3	3	4	3	3	3	3	4	4	3	4	4	3	3	3.57	Male	50-59	Beginner user	84	3.36	6	1	1
+150	50-59	Male	Some graduate school	Intermediate	1-10 hours	Beginner user	Yes	3	3	3	2	3	3	3	2	3	3	2	3	2	3	2	2	3	2	2	2	2	3	3	2	2	3.38	Male	50-59	Beginner user	63	2.52	6	1	1
+151	50-59	Male	Graduated from college	Intermediate	1-10 hours	Beginner user	Yes	3	3	2	3	3	3	3	2	3	3	3	3	3	3	3	3	2	2	3	3	2	3	3	2	2	1.9	Male	50-59	Beginner user	68	2.72	6	1	1
+152	40-49	Male	Graduated from high school	Intermediate	1-10 hours	Beginner user	No	2	3	3	3	3	3	3	3	2	3	2	2	2	3	2	2	3	1	2	3	3	2	2	3	3	5.83	Male	40-49	Beginner user	63	2.52	5	1	1
+153	30-39	Male	Completed graduate school	Beginner	1-10 hours	Expert user	No	1	3	3	1	3	3	3	3	3	3	3	3	3	3	1	3	3	1	3	4	4	1	3	4	1	6.8	Male	30-39	Expert user	66	2.64	4	1	3
+154	21-29	Female	Completed graduate school	Expert	11-20 hours	Intermediate user	No	3	3	3	3	3	3	3	3	3	2	3	3	2	3	3	3	3	2	3	4	3	2	3	2	4	3.15	Female	21-29	Intermediate user	72	2.88	3	2	2
+155	30-39	Female	Completed graduate school	Intermediate	11-20 hours	Intermediate user	No	1	2	1	2	2	3	3	0	1	1	3	3	2	2	2	2	2	3	2	3	1	1	2	3	2	3.6	Female	30-39	Intermediate user	49	1.96	4	2	2
+156	30-39	Female	Completed graduate school	Expert	21 or more hours	Intermediate user	Yes	2	3	2	2	2	3	3	3	2	3	3	3	2	2	2	3	2	2	3	3	3	2	3	3	3	3.58	Female	30-39	Intermediate user	64	2.56	4	3	2
+157	30-39	Male	Completed graduate school	Expert	1-10 hours	Beginner user	Yes	3	1	0	0	2	1	1	1	1	1	0	1	2	1	1	0	1	0	1	0	0	3	3	2	2	14.17	Male	30-39	Beginner user	28	1.12	4	1	1
+158	21-29	Female	Some graduate school	Intermediate	11-20 hours	Intermediate user	No	1	3	2	2	1	3	3	3	3	3	2	2	3	3	3	2	3	2	2	3	2	1	3	3	3	1.73	Female	21-29	Intermediate user	61	2.44	3	2	2
+159	30-39	Male	Graduated from college	Expert	1-10 hours	Expert user	Yes	1	2	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	1	2	3	2	1	4.02	Male	30-39	Expert user	45	1.8	4	1	3
+160	50-59	Male	Completed graduate school	Intermediate	11-20 hours	Intermediate user	Yes	3	3	2	3	3	4	4	3	4	4	2	2	3	2	2	4	4	4	4	4	3	2	3	2	3	2582.12	Male	50-59	Intermediate user	77	3.08	6	2	2
+161	21-29	Female	Completed graduate school	Expert	21 or more hours	Intermediate user	No	2	3	3	3	3	4	4	3	3	2	4	3	3	2	4	4	3	3	4	4	4	3	4	4	4	10.15	Female	21-29	Intermediate user	83	3.32	3	3	2
+162	21-29	Female	Graduated from college	Intermediate	21 or more hours	Expert user	No	3	1	3	1	3	1	1	3	1	1	3	3	3	2	1	3	1	1	2	3	3	3	3	3	2	3.45	Female	21-29	Expert user	54	2.16	3	3	3
+163	30-39	Male	Completed graduate school	Beginner	1-10 hours	Beginner user	Yes	4	4	4	3	4	4	4	3	3	4	3	3	4	4	4	3	3	0	2	3	2	3	4	2	2	5.47	Male	30-39	Beginner user	79	3.16	4	1	1
+164	60 or older	Male	Completed graduate school	Intermediate	1-10 hours	Intermediate user	No	2	2	2	2	3	3	3	2	2	2	3	2	3	3	3	3	2	2	2	3	2	2	2	2	2	2.92	Male	60 or older	Intermediate user	59	2.36	7	1	2
+165	21-29	Male	Graduated from college	Intermediate	1-10 hours	Beginner user	Yes	3	1	2	2	3	3	3	0	1	0	2	3	2	2	1	1	2	0	0	1	3	1	3	2	3	34.07	Male	21-29	Beginner user	44	1.76	3	1	1
+166	60 or older	Female	Completed graduate school	Intermediate	11-20 hours	Intermediate user	Yes	1	2	3	3	3	3	3	2	3	3	1	1	1	1	2	0	0	0	0	0	0	0	1	1	1	4.83	Female	60 or older	Intermediate user	35	1.4	7	2	2
+167	40-49	Male	Completed graduate school	Beginner	21 or more hours	Beginner user	Yes	1	2	2	1	2	3	3	1	1	2	2	1	1	1	1	1	1	1	1	1	2	1	3	2	2	2.87	Male	40-49	Beginner user	39	1.56	5	3	1
+168	40-49	Male	Completed graduate school	Expert	1-10 hours	Beginner user	No	3	3	2	3	3	4	4	2	4	3	2	3	2	3	2	2	3	1	2	3	2	4	4	2	3	2.72	Male	40-49	Beginner user	69	2.76	5	1	1
+169	40-49	Male	Graduated from college	Beginner	1-10 hours	Beginner user	Yes	3	3	2	3	3	3	3	3	3	3	3	3	3	2	2	3	3	3	3	3	2	3	3	2	2	1.72	Male	40-49	Beginner user	69	2.76	5	1	1
+170	40-49	Female	1 year of college	Intermediate	11-20 hours	Beginner user	No	2	1	3	1	2	1	1	2	1	2	1	1	1	2	2	2	1	2	2	1	2	1	1	2	2	3.08	Female	40-49	Beginner user	39	1.56	5	2	1
+171	40-49	Female	Completed graduate school	Intermediate	1-10 hours	Beginner user	No	3	3	2	3	3	3	3	3	3	2	2	3	2	3	3	3	2	3	3	2	3	1	3	3	2	18.73	Female	40-49	Beginner user	66	2.64	5	1	1
+172	30-39	Female	Completed graduate school	Intermediate	1-10 hours	Beginner user	No	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	1	4	2	4	2	3	3	2	4	8.1	Female	30-39	Beginner user	74	2.96	4	1	1
+173	40-49	Female	Completed graduate school	Intermediate	1-10 hours	Intermediate user	Yes	3	3	3	3	3	3	3	3	2	3	2	2	3	2	3	3	3	3	3	3	2	2	3	2	2	16.2	Female	40-49	Intermediate user	67	2.68	5	1	2
+174	21-29	Female	Graduated from college	Beginner	1-10 hours	Beginner user	Yes	3	3	1	3	3	3	3	3	3	3	3	3	3	1	3	3	3	3	3	3	3	2	3	3	1	2.12	Female	21-29	Beginner user	68	2.72	3	1	1
+175	30-39	Female	Completed graduate school	Expert	21 or more hours	Intermediate user	Yes	3	3	2	2	3	4	3	4	3	2	3	3	2	2	2	3	3	2	3	4	3	2	3	3	2	8.28	Female	30-39	Intermediate user	69	2.76	4	3	2
